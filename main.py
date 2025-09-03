@@ -12,7 +12,7 @@ if age < 18:
     #DiddyLibs
     print("A minor I see\n")
     for i in tqdm(range(250), desc="Booting", ascii=False, ncols=75):
-        time.sleep(0.0029)
+        time.sleep(0.004)
     print("\n")
     
     # DiddyLibs input prompts
